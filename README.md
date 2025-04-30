@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/username/username/main/banner.png" alt="Hi, I'm Emmanuel!" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Emmanuel King Hubin Mawutor</h1>
+<h1 align="center">Hi 👋, I'm King</h1>
 
 <p align="center">
   🚀 Frontend Developer in Training at ALX | 🎯 Tech for Impact | 💡 Lifelong Learner
